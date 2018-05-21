@@ -1,0 +1,7 @@
+Download Windows x86 web-based installer
+Download Windows x86 executable installer
+Download Windows x86 embeddable zip file
+Download Windows x86-64 web-based installer
+Download Windows x86-64 executable installer
+Download Windows x86-64 embeddable zip file
+Download Windows help file
